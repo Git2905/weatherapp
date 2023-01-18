@@ -1,0 +1,15 @@
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.exe
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.deps.json
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.runtimeconfig.json
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.dll
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\bin\Debug\net6.0\WeatherApp.pdb
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.AssemblyReference.cache
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.AssemblyInfo.cs
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.dll
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\refint\WeatherApp.dll
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.pdb
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\WeatherApp.genruntimeconfig.cache
+C:\Krushna\ConsoleApps\WeatherApp\WeatherApp\obj\Debug\net6.0\ref\WeatherApp.dll
